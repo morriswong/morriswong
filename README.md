@@ -2,8 +2,6 @@
 
 I am usually trying to finding out why the data goes :chart_with_upwards_trend: or :chart_with_downwards_trend: and help people understand it by making :bar_chart: with my :computer:
 
-![Some dashboards!](https://unsplash.com/photos/6EnTPvPPL6I/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MzZ8fGRhdGElMjBkYXNoYm9hcmR8ZW58MHx8fHwxNjgwMjUzNjEy&force=true&w=640 "Some dashboards")
-
 Technolgoies that I worked with the most recently:
 - **SQL**, Had some [fun](https://medium.com/@tuewithmorris/solving-a-murder-with-sql-ec6cd7faeb79) with it too
 - **Python**, and also the [keyboard shortcuts](https://medium.com/@tuewithmorris/google-colab-notebooks-keyboard-shortcuts-aa6a008fb91b) to live by
