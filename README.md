@@ -11,7 +11,7 @@ While those are something that is newer, I still do this day to day:
 
 And it also important to be able to communicate it at scale, so these are some of the tools that I use:
 - **Tableau** or anything equivalent to it , [viz](https://medium.com/@tuewithmorris/visualising-the-world-press-freedom-index-2020-with-tableau-a10790cd90ae) things out is what I like to do too
-- **Streamlit**, I liked the idea of an analytics app that can be build ground up, all just using python. Made an [app](https://github.com/morriswong/career-assistant) that helped me look at jobs
+- **Streamlit**, I liked the idea of an analytics app that can be build ground up, all just using python. Made an [app](https://github.com/morriswong/career-duck) that helped me look at jobs descriptions
 
 I actually started out programming at a full stack coding bootcamp, with Javascript we keep jumping [up](http://datjumper.surge.sh/)
 
