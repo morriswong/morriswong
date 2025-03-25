@@ -3,8 +3,8 @@
 I am usually trying to finding out why the data goes :chart_with_upwards_trend: or :chart_with_downwards_trend: and help people understand it by making :bar_chart: with my :computer:
 
 Technolgoies that I worked with the most recently:
-- **LLMs**, Mostly worked with Azure OpenAI, but dabbled into other llms such as Cohere and Mistral as well
-
+- **LLMs**, Mostly worked with Azure OpenAI, but dabbled into Opensourced LLMs and built a [bullet point generator](https://bulletcv.koyeb.app) with Llama models from together.ai 
+ 
 While those are something that is newer, I still do this day to day:
 - **SQL**, Had some [fun](https://medium.com/@tuewithmorris/solving-a-murder-with-sql-ec6cd7faeb79) with it too
 - **Python**, and also the [keyboard shortcuts](https://medium.com/@tuewithmorris/google-colab-notebooks-keyboard-shortcuts-aa6a008fb91b) to live by
